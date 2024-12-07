@@ -1,0 +1,365 @@
+@media (min-width: 1026px){
+body{
+    width: 100%;
+    height: 100vh;
+    font-family: 'Be Vietnam Pro', 'san-serif';
+}
+.popular-plan2{
+    display: none;
+}
+header{
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.head{
+    text-align: center;
+    width: 40%;
+}
+main{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 5% 0;
+}
+main div{
+    margin: 0 0 0;
+    line-height: 4em;
+    width: 18%;
+    text-align: center;
+    border-radius: 1em;
+}
+main h1{
+    font-size: 4em;
+}
+.label{
+    margin-top: 10.5%;
+    line-height: 4em;
+    text-align: left;
+}
+main p{
+    border-bottom: 1px solid grey;
+    width: 100%;
+}
+main h4{
+    color: rgb(0, 68, 255);
+}
+.popular-plan{
+    background-color: rgba(0, 0, 15, 0.904);
+    border-radius: 1em;
+    color: white;
+}
+.popular-plan p{
+    border: none;
+}
+.popular-plan h4{
+    background-color: rgba(67, 67, 255, 0.904);
+    color: white;
+    width: 50%;
+    margin: 20px auto 12px;
+    height: 30px;
+    border-radius: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.popular-plan svg{
+    color: white;
+}
+.popular-plan .getstarted{
+    background-color: rgb(133, 75, 0);
+    border: none;
+    border-radius: 0 0 1em 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.getstarted{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(73, 73, 255);
+}
+}
+@media (max-width: 1025px) and (min-width: 769px){
+    body{
+        width: 100%;
+        height: 100vh;
+        font-family: 'Be Vietnam Pro', 'san-serif';
+    }
+    .popular-plan2{
+        display: none;
+    }
+    header{
+        width: 100%;
+        height: 25vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .head{
+        text-align: center;
+        width: 40%;
+    }
+    main{
+        width: 90%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 5% 0;
+    }
+    main div{
+        margin: 0 0 0;
+        line-height: 4em;
+        width: 22%;
+        text-align: center;
+        border-radius: 1em;
+    }
+    main h1{
+        font-size: 4em;
+    }
+    .free-plan{
+        display: none;
+    }
+    .label{
+        margin-top: 13.8%;
+        line-height: 4em;
+        text-align: left;
+    }
+    main p{
+        border-bottom: 1px solid grey;
+        width: 100%;
+    }
+    main h4{
+        color: rgb(0, 68, 255);
+    }
+    .popular-plan{
+        background-color: rgba(0, 0, 15, 0.904);
+        border-radius: 1em;
+        color: white;
+    }
+    .popular-plan p{
+        border: none;
+    }
+    .popular-plan h4{
+        background-color: rgba(67, 67, 255, 0.904);
+        color: white;
+        width: 50%;
+        margin: 20px auto 12px;
+        height: 30px;
+        border-radius: 2em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .popular-plan svg{
+        color: white;
+    }
+    .popular-plan .getstarted{
+        background-color: rgb(133, 75, 0);
+        border: none;
+        border-radius: 0 0 1em 1em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+    }
+    .getstarted{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: rgb(73, 73, 255);
+    }
+}
+@media (max-width: 768px) and (min-width: 481px){
+    body{
+        width: 100%;
+        height: 100vh;
+        font-family: 'Be Vietnam Pro', 'san-serif';
+    }
+    .popular-plan2{
+        display: none;
+    }
+    header{
+        width: 100%;
+        height: 25vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .head{
+        text-align: center;
+        width: 40%;
+    }
+    main{
+        width: 90%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 5% 0;
+    }
+    main div{
+        margin: 0 0 0;
+        line-height: 4em;
+        width: 22%;
+        text-align: center;
+        border-radius: 1em;
+    }
+    main h1{
+        font-size: 3em;
+    }
+    .free-plan{
+        display: none;
+    }
+    .label{
+        margin-top: 18.6%;
+        line-height: 4em;
+        text-align: left;
+    }
+    main p{
+        border-bottom: 1px solid grey;
+        width: 100%;
+    }
+    main h4{
+        color: rgb(0, 68, 255);
+    }
+    .popular-plan{
+        background-color: rgba(0, 0, 15, 0.904);
+        border-radius: 1em;
+        color: white;
+    }
+    .popular-plan p{
+        border: none;
+    }
+    .popular-plan h4{
+        background-color: rgba(67, 67, 255, 0.904);
+        color: white;
+        width: 50%;
+        margin: 20px auto 12px;
+        height: 30px;
+        border-radius: 2em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .popular-plan svg{
+        color: white;
+    }
+    .popular-plan .getstarted{
+        background-color: rgb(133, 75, 0);
+        border: none;
+        border-radius: 0 0 1em 1em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+    }
+    .getstarted{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: rgb(73, 73, 255);
+    }
+    .label span{
+        display: none;
+    }
+}
+@media (max-width: 480px){
+    body{
+        width: 100%;
+        height: 100vh;
+        font-family: 'Be Vietnam Pro', 'san-serif';
+    }
+    header{
+        width: 100%;
+        height: 25vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .head{
+        text-align: center;
+        width: 100%;
+    }
+    main{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto 0;
+    }
+    main div{
+        margin: 0 0 0;
+        line-height: 4em;
+        width: 30%;
+        text-align: center;
+        border-radius: 1em;
+    }
+    main h1{
+        font-size: 2em;
+    }
+    .free-plan, .team-plan{
+        display: none;
+    }
+    .label{
+        margin-top: 30.7%;
+        line-height: 4em;
+        text-align: left;
+    }
+    main p{
+        border-bottom: 1px solid grey;
+        width: 100%;
+        font-size: 12px;
+        overflow: hidden;
+    }
+    main h4{
+        color: rgb(0, 68, 255);
+    }
+    .popular-plan2{
+        background-color: rgba(0, 0, 15, 0.904);
+        border-radius: 1em;
+        color: white;
+    }
+    .popular-plan2 p{
+        border: none;
+    }
+    .popular-plan2 h4{
+        background-color: rgba(67, 67, 255, 0.904);
+        color: white;
+        width: 70%;
+        margin: 20px auto 12px;
+        height: 30px;
+        border-radius: 2em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .getstarted svg{
+        display: none;
+    }
+    .popular-plan2 .getstarted{
+        background-color: rgb(133, 75, 0);
+        border: none;
+        border-radius: 0 0 1em 1em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+    }
+    .getstarted{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: rgb(73, 73, 255);
+    }
+    .popular-plan{
+        display: none;
+    }
+    .label span{
+     display: none;
+    }
+}
