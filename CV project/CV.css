@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: 'Poppins', 'san-serif';
+}
+.details{
+    width: 80%;
+    margin: 2em auto 0;
+    border-top: 4px solid black;
+}
+span{
+    color: rgb(24, 255, 24)
+}
+.head{
+    color: rgb(0, 47, 255);
+}
